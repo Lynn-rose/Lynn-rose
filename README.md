@@ -11,6 +11,7 @@ I have a keen interest and expertise in machine learning, Data Science and natur
 ## My Current Tech Stack
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-150458?logo=python&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/-PHP-013243?logo=php&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Surprise-4B0082?logo=python&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Vercel-FF4B4B?logo=vercel&logoColor=white&style=flat-square">

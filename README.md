@@ -1,13 +1,13 @@
 # Hi, I'm Lynn 👋🏾 👩🏾‍💻
 
-<img src="" alt="banner that says Lynn Rose - data engineer, Data analyst, Data scientist">
+<p align="center"><img src="https://github.com/Lynn-rose/Lynn-rose/blob/main/images.jpeg" alt="banner that says Lynn Rose - data engineer, Data analyst, Data scientist"></p>
+
 I am a data science professional with a strong background in computer science and expertise in data analysis and modelling, MySQL database administration, machine learning, data science and natural language processing.
 
 I have worked on data science projects, using my skills in data analysis, EDA, data visualisation, Data Collection and Cleaning and database management to create robust and user-friendly models. I am well proficient in Python and frameworks like Django. I also have a deep understanding of MySQL database administration, including database design, implementation and optimization.
 
 I have a keen interest and expertise in machine learning, Data Science and natural language processing (NLP). I have worked on various ML models for tasks such as sentiment analysis and text classification. I have good knowledge of libraries such as scikit-learn, and NLTK and programming skills in Python.  
 
-'''
 ## My Current Tech Stack
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-150458?logo=python&logoColor=white&style=flat-square">

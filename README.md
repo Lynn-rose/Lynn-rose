@@ -23,6 +23,7 @@ I have a keen interest and expertise in machine learning, Data Science and natur
     <img src="https://img.shields.io/badge/-Django-3F4F75?logo=django&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Tableau-4B0082?logo=tableau&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-PowerBI-150458?logo=power bi&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/-FastApi-013243?logo=fastapi&logoColor=white&style=flat-square">
 </p>
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>

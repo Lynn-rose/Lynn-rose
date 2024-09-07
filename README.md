@@ -1,6 +1,6 @@
 # Hi, I'm Lynn 👋🏾 👩🏾‍💻
 
-<p align="center"><img src="(https://github.com/Lynn-rose/Lynn-rose/blob/main/LYNN%20ROSE%20(1).png)" alt="banner that says Lynn Rose - data engineer, Data analyst, Data scientist"></p>
+<p align="center"><img src="https://github.com/Lynn-rose/Lynn-rose/blob/main/LYNN%20ROSE%20(1).png" alt="banner that says Lynn Rose - data engineer, Data analyst, Data scientist"></p>
 
 I am a data science professional with a strong background in computer science and expertise in data analysis and modelling, MySQL database administration, machine learning, data science and natural language processing.
 
